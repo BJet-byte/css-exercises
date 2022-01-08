@@ -1,8 +1,17 @@
 
 .classmate {
-    background-color: rgb(161, 37, 58);
-    font-family: "Verdana"; sans-serif;
+    background-color: rgb(223, 153, 164);
+    font-family: "Verdana", sans-serif;
 }
 .cool {
     font-size: 24px;
+}
+#neo {
+    color: rgb(22, 22, 192);
+    font-size: 36px;
+}
+#another {
+    background-color: rgb(73, 204, 73);
+    font-size: 24px;
+    font-weight: bold;
 }
